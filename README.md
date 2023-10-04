@@ -4,7 +4,7 @@ _**Techniques**_: EDA, Data Visualization, Machine Learning (SVM), Statistical A
 _**Tools**_: Python, Tableau
 
 <img width="650" alt="Screen Shot 2023-05-11 at 12 49 24 AM" src="https://github.com/SeungPang11/Diabetes-Progression-Prediction/assets/67944800/63fe3886-d091-4e20-b2be-413cd8557270">
-
+ 
 
 
 <br>
